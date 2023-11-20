@@ -1,0 +1,14 @@
+C:\Users\Brayan Cala\Documents\projectsNetCore\calaNetConsole\bin\Debug\net7.0\calaNetConsole.exe
+C:\Users\Brayan Cala\Documents\projectsNetCore\calaNetConsole\bin\Debug\net7.0\calaNetConsole.deps.json
+C:\Users\Brayan Cala\Documents\projectsNetCore\calaNetConsole\bin\Debug\net7.0\calaNetConsole.runtimeconfig.json
+C:\Users\Brayan Cala\Documents\projectsNetCore\calaNetConsole\bin\Debug\net7.0\calaNetConsole.dll
+C:\Users\Brayan Cala\Documents\projectsNetCore\calaNetConsole\bin\Debug\net7.0\calaNetConsole.pdb
+C:\Users\Brayan Cala\Documents\projectsNetCore\calaNetConsole\obj\Debug\net7.0\calaNetConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brayan Cala\Documents\projectsNetCore\calaNetConsole\obj\Debug\net7.0\calaNetConsole.AssemblyInfoInputs.cache
+C:\Users\Brayan Cala\Documents\projectsNetCore\calaNetConsole\obj\Debug\net7.0\calaNetConsole.AssemblyInfo.cs
+C:\Users\Brayan Cala\Documents\projectsNetCore\calaNetConsole\obj\Debug\net7.0\calaNetConsole.csproj.CoreCompileInputs.cache
+C:\Users\Brayan Cala\Documents\projectsNetCore\calaNetConsole\obj\Debug\net7.0\calaNetConsole.dll
+C:\Users\Brayan Cala\Documents\projectsNetCore\calaNetConsole\obj\Debug\net7.0\refint\calaNetConsole.dll
+C:\Users\Brayan Cala\Documents\projectsNetCore\calaNetConsole\obj\Debug\net7.0\calaNetConsole.pdb
+C:\Users\Brayan Cala\Documents\projectsNetCore\calaNetConsole\obj\Debug\net7.0\calaNetConsole.genruntimeconfig.cache
+C:\Users\Brayan Cala\Documents\projectsNetCore\calaNetConsole\obj\Debug\net7.0\ref\calaNetConsole.dll
